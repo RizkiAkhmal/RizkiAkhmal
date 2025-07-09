@@ -13,7 +13,7 @@
 - 📱 Passionate about building mobile apps with real backend APIs
 - 🎯 Always learning fullstack development and writing clean, reusable code
 - 📍 Based in Indonesia | 🇮🇩 16 years old
-- 📫 Reach me at **rizkiakhmal.dev@gmail.com**
+- 📫 Reach me at **iki.akhmal08@gmail.com**
 
 ---
 
