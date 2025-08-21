@@ -39,10 +39,20 @@
 ---
 
 ## 📫 Let’s Connect!
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rizki-akhmal-b4b730263/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/rizkiakhmal"><img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <!-- Tambahkan link sosial media lain jika ada -->
+  <a href="https://www.linkedin.com/in/rizki-akhmal-b4b730263/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/rizkiakhmal" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/rizkiakmal1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/kimals__" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
