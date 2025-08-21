@@ -44,9 +44,6 @@
   <a href="https://www.linkedin.com/in/rizki-akhmal-b4b730263/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/rizkiakhmal" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://www.instagram.com/rizkiakmal1/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
