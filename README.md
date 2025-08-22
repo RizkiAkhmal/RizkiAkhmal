@@ -11,9 +11,18 @@
 
 ---
 
+## 🏷️ Main Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
 ## 🚀 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,flutter,dart,mysql,git,vscode,figma" height="50" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,flutter,dart,mysql,firebase,git,vscode,figma" height="50" />
 </div>
 
 ---
