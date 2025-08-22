@@ -53,14 +53,6 @@
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
         <br><strong>Git</strong>
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-        <br><strong>Docker</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-        <br><strong>Linux</strong>
-      </td>
     </tr>
   </table>
 </div>
@@ -74,23 +66,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║  🌟 CURRENT OBJECTIVES                                         ║
-╠════════════════════════════════════════════════════════════════╣
-║  → Building next-gen web applications with Laravel             ║
-║  → Crafting beautiful mobile experiences with Flutter          ║
-║  → Mastering microservices architecture                        ║
-║  → Contributing to open-source projects                        ║
-║  → Exploring AI/ML integration possibilities                   ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 ## 📊 Battle Statistics
@@ -175,13 +150,6 @@ console.log("Welcome to my digital realm! 🚀");
 
 ---
 
-## 🏆 Hall of Fame
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RizkiAkhmal&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
-</div>
-
----
 
 ## 🎨 Profile Views Counter
 
@@ -190,19 +158,6 @@ console.log("Welcome to my digital realm! 🚀");
   <br><br>
   <img src="https://img.shields.io/github/followers/RizkiAkhmal?label=Followers&style=for-the-badge&color=F85D7F" alt="Followers" />
   <img src="https://img.shields.io/github/stars/RizkiAkhmal?label=Stars&style=for-the-badge&color=F85D7F" alt="Stars" />
-</div>
-
----
-
-## 🚀 Latest Projects Showcase
-
-<div align="center">
-  <a href="https://github.com/RizkiAkhmal/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizkiAkhmal&repo=awesome-project&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/RizkiAkhmal/flutter-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizkiAkhmal&repo=flutter-app&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
 </div>
 
 ---
